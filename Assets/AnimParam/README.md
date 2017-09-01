@@ -2,9 +2,9 @@
 =====================
 
 
-![](https://photos-6.dropbox.com/t/2/AAC5pUHwKgBXwGhl69EsGaZVWp51IwOyioHb30PJ20-RhA/12/419545301/png/32x32/1/_/1/2/AnimParamExScriptableObj.png/EOXDzN8FGAIgAigC/LOJ3ph_O4KOOTWxJebhxwN0ksCrvHApTdJhhJJHoDYE?size=2048x1536&size_mode=3)
+![](https://s26.postimg.org/bodvt4215/Anim_Param_Mono.png)
 
-![](https://photos-2.dropbox.com/t/2/AABi8LlknXQR48MLo1Mhkm0lyYXlnLNID8r4lPmcXrg67w/12/419545301/png/32x32/1/_/1/2/AnimParamMono.png/EOXDzN8FGAIgAigC/3vJFb1D8pjLFeaeZeIJ2hUT1dcecu3EWDIAcH0WUpNw?size=2048x1536&size_mode=3)
+![](http://img.pixady.com/2017/09/542257_animparamexscriptableobj_460x233.png)
 
 ```
 using UnityEngine;
@@ -24,10 +24,6 @@ public class AnimParamAttributeExample : MonoBehaviour {
 }
 
 ```
-
-
-----------
-
 
 ```
 
