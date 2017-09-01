@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Name: AnimParamAttributeExample
   m_EditorClassIdentifier: 
   _animController: {fileID: 9100000, guid: b2e5a2f7ba317bb4db228cd448d7deef, type: 2}
-  _paramNameFloat: 
+  _paramNameFloat: Float02
+  _paramHashTrigger: -770014602
