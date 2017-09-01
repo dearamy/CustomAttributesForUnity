@@ -4,7 +4,7 @@ AnimatorParameter
 
 ![](https://www.dropbox.com/s/wiqu416pevgrg48/AnimParamExScriptableObj.png)
 
-![](https://www.dropbox.com/s/brh2aph5nzoolgu/AnimParamMono.png)
+![](https://www.dropbox.com/s/brh2aph5nzoolgu/AnimParamMono.png?dl=0)
 
 ```
 using UnityEngine;
@@ -23,9 +23,9 @@ public class AnimParamAttributeExample : MonoBehaviour {
 
 }
 
-
-
-
+```
+==========================
+```
 
 using UnityEngine;
 using UnityEditor.Animations;
